@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Taylor Swift | The Eras Tour",
+        "description": "Experience Taylor Swift's record-breaking Eras Tour live!",
+        "price": 499.99,
+        "totalTickets": 100,
+        "location": "MetLife Stadium, New Jersey",
+        "eventDate": 1757576342196,
+        "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
+    },
+    {
+        "name": "Champions League Final 2025 - Real Madrid vs Manchester City",
+        "description": "Watch the biggest match in European football live!",
+        "price": 899.99,
+        "totalTickets": 50,
+        "location": "Wembley Stadium, London",
+        "eventDate": 1757576342196,
+        "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
+    },
+    {
+        "name": "Beyoncé Renaissance World Tour",
+        "description": "Join Beyoncé for an unforgettable night of music and performance!",
+        "price": 299.99,
+        "totalTickets": 75,
+        "location": "Madison Square Garden, New York",
+        "eventDate": 1757576342196,
+        "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+    },
+    {
+        "name": "Coldplay World Tour",
+        "description": "Join Coldplay for an unforgettable night of music!",
+        "price": 150,
+        "totalTickets": 200,
+        "location": "Wembley Stadium, London",
+        "eventDate": 1757576342196,
+        "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+    },
+    {
+        "name": "FIFA World Cup Final 2026",
+        "description": "Witness football history at the FIFA World Cup Final!",
+        "price": 85,
+        "totalTickets": 1000,
+        "location": "MetLife Stadium, New Jersey",
+        "eventDate": 1757576342196,
+        "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
+    },
+    {
+        "name": "Ed Sheeran Mathematics Tour",
+        "description": "An intimate evening with Ed Sheeran performing his greatest hits",
+        "price": 125,
+        "totalTickets": 150,
+        "location": "O2 Arena, London",
+        "eventDate": 1752392342196,
+        "userId": "user_2eRTLnPxYQWWbzM8THMTaisFnzE"
+    },
+    {
+        "name": "Premier League: Arsenal vs Manchester United",
+        "description": "A classic Premier League rivalry match at the Emirates",
+        "price": 199.99,
+        "totalTickets": 60,
+        "location": "Emirates Stadium, London",
+        "eventDate": 1752392342196,
+        "userId": "user_2fQUMpNzXSVVczN9UINUbjsGozF"
+    },
+    {
+        "name": "Adele: Weekend with Adele",
+        "description": "Adele's spectacular Las Vegas residency show",
+        "price": 450,
+        "totalTickets": 80,
+        "location": "Caesars Palace, Las Vegas",
+        "eventDate": 1752392342196,
+        "userId": "user_2gPVNqOyYTWWdzO0VJOVcktHpzG"
+    },
+    {
+        "name": "Wimbledon 2024 - Men's Final",
+        "description": "The culmination of the world's most prestigious tennis tournament",
+        "price": 750,
+        "totalTickets": 40,
+        "location": "Centre Court, All England Club, London",
+        "eventDate": 1752392342196,
+        "userId": "user_2hQWOrPzZUXXezP1WKPWdluIqzH"
+    },
+    {
+        "name": "Harry Potter and the Cursed Child",
+        "description": "The eighth story in the Harry Potter series comes to life on stage",
+        "price": 175,
+        "totalTickets": 100,
+        "location": "Palace Theatre, London",
+        "eventDate": 1752392342196,
+        "userId": "user_2iRXPsQAaVYYfAQ2XLQXemvJrzI"
+    }
+]
